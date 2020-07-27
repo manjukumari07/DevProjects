@@ -1,0 +1,59 @@
+
+Log Information:
+ 21:22:58 27 July 2020 :
+  
+ Authentication Successfull
+
+-------------------------------
+
+Log Information:
+ 21:22:59 27 July 2020 :
+  Added product to the shopping Cart: 
+
+-------------------------------
+
+Log Information:
+ 21:22:59 27 July 2020 :
+  
+SmartPhone
+
+-------------------------------
+
+Log Information:
+ 21:23:02 27 July 2020 :
+  Added product to the shopping Cart: 
+
+-------------------------------
+
+Log Information:
+ 21:23:02 27 July 2020 :
+  
+SmartPhone
+
+-------------------------------
+
+Log Information:
+ 21:23:02 27 July 2020 :
+  
+CPU
+
+-------------------------------
+
+Log Information:
+ 21:30:28 27 July 2020 :
+
+ Authentication Successfull
+
+-------------------------------
+
+Log Information:
+ 21:30:31 27 July 2020 :
+Added product to the shopping Cart: 
+
+-------------------------------
+
+Log Information:
+ 21:30:31 27 July 2020 :
+SmartPhone
+
+-------------------------------
